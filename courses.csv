@@ -1,0 +1,503 @@
+code,title,section,instructor,day,time,classroom,semester
+ACCT1146,Signals and Applications,B,Ms. Fung Sze Wan,Thu,11:00-12:30,L206,2026S1
+ACCT1198,Organic Chemistry and Applications,A,Prof. Chow Man Hon,Mon,11:00-12:30,H322,2026S1
+ACCT1209,Networks Seminar,B,Dr. Tam Lok Hin,Fri,14:00-15:30,H309,2026S2
+ACCT1237,Statistics Project,G,Prof. Lam Wing Kei,Wed,16:00-17:30,E635,2026S1
+ACCT1260,Signals Laboratory,G,Dr. Cheng Siu Chung,Thu,15:00-16:30,E616,2026S2
+ACCT1402,Networks Seminar,C,Ms. Kwan Po Yi,Mon,18:00-19:30,E627,2026S2
+ACCT1476,Discrete Mathematics Workshop,A,Prof. Chow Man Hon,Mon,15:00-16:30,L204,2026S2
+ACCT1693,Financial Markets Project,G,Mr. Ho Chun Kit,Thu,14:00-15:30,L211,2026S2
+ACCT2183,Topics in Signals,A,Prof. Tsang Wai Han,Wed,14:00-15:30,H311,2026S1
+ACCT2266,Modern Literature and Applications,G,Dr. Lau Hiu Tung,Fri,13:00-14:30,H321,2026S2
+ACCT2299,Topics in Cognitive Science,A,Dr. Cheng Siu Chung,Wed,10:00-12:00,E635,2026S1
+ACCT2375,Introduction to Control Systems,B,Dr. Cheung Mei Ling,Thu,19:00-20:30,E635,2026S2
+ACCT2460,Topics in Microeconomics,C,Dr. Lau Hiu Tung,Tue,15:00-16:30,E610,2026S1
+ACCT2480,Topics in Databases,C,Dr. Mak Chi Shing,Thu,10:00-12:00,L214,2026S2
+ACCT2492,Financial Markets Workshop,E,Dr. Tam Lok Hin,Mon,14:00-16:00,H320,2026S1
+ACCT2603,Topics in Microeconomics,C,Dr. Chan Kai Man,Fri,19:00-20:30,E631,2026S2
+ACCT2626,Topics in Networks,F,Dr. Lau Hiu Tung,Wed,15:00-16:30,L215,2026S1
+ACCT2694,Modern Literature Laboratory,E,Dr. Lau Hiu Tung,Tue,14:00-16:00,E639,2026S1
+ACCT2727,Topics in Cognitive Science,C,Mr. Ho Chun Kit,Thu,13:00-14:30,H316,2026S2
+ACCT2957,Organic Chemistry Laboratory,E,Dr. Cheung Mei Ling,Wed,15:00-16:30,H306,2026S2
+ACCT3116,Topics in Statistics,H,Dr. Leung Ho Yin,Thu,15:00-16:30,E613,2026S1
+ACCT3139,Advanced Data Analysis,E,Dr. Ng Tsz Ho,Wed,10:00-12:00,L218,2026S1
+ACCT3166,Signals Seminar,E,Dr. Lau Hiu Tung,Tue,13:00-14:30,L203,2026S2
+ACCT3225,Microeconomics Seminar,F,Ms. Tsui Ka Yan,Wed,13:00-14:30,H321,2026S1
+ACCT3354,Introduction to Operating Systems,C,Dr. Au Yeung Hoi,Tue,13:00-14:30,L227,2026S2
+ACCT3513,Advanced Organizational Behavior,E,Ms. Fung Sze Wan,Fri,10:00-12:00,E627,2026S2
+ACCT3833,Signals and Applications,A,Dr. Mak Chi Shing,Tue,14:00-16:00,H305,2026S2
+ACCT4016,Operating Systems Workshop,H,Dr. Chan Kai Man,Tue,13:00-14:30,E605,2026S2
+ACCT4042,Topics in Organic Chemistry,E,Dr. Leung Ho Yin,Thu,19:00-20:30,L218,2026S1
+ACCT4072,Organizational Behavior Project,H,Dr. Au Yeung Hoi,Tue,09:00-10:30,L203,2026S2
+ACCT4087,Advanced Control Systems,H,Prof. Chow Man Hon,Fri,15:00-16:30,H303,2026S2
+ACCT4092,Probability Seminar,F,Dr. Lau Hiu Tung,Mon,09:00-10:30,L209,2026S2
+ACCT4101,Control Systems Laboratory,D,Ms. Kwan Po Yi,Tue,11:00-12:30,H310,2026S1
+ACCT4111,Control Systems Seminar,G,Mr. Ho Chun Kit,Fri,18:00-19:30,E601,2026S1
+ACCT4147,Topics in Cognitive Science,E,Ms. Tsui Ka Yan,Tue,14:00-15:30,H312,2026S2
+ACCT4152,Signals and Applications,C,Prof. Chow Man Hon,Tue,16:00-17:30,E608,2026S1
+ACCT4786,Introduction to Linear Algebra,F,Dr. Lau Hiu Tung,Wed,15:00-16:30,H320,2026S2
+ACCT4914,Introduction to Databases,G,Prof. Lam Wing Kei,Thu,10:00-12:00,L207,2026S1
+ACCT4948,Academic Writing Laboratory,G,Prof. Tsang Wai Han,Fri,15:00-16:30,E603,2026S2
+ACCT4978,Circuits and Applications,G,Prof. Chow Man Hon,Tue,11:00-12:30,L207,2026S1
+BIOL1109,Topics in Databases,H,Dr. Yip Ka Fai,Wed,18:00-19:30,L206,2026S1
+BIOL1137,Discrete Mathematics Project,B,Ms. Wong Hiu Lam,Thu,14:00-15:30,E615,2026S2
+BIOL1250,Data Analysis Project,B,Dr. Yip Ka Fai,Tue,18:00-19:30,E611,2026S1
+BIOL1547,Networks Workshop,B,Dr. Leung Ho Yin,Mon,13:00-14:30,E634,2026S2
+BIOL1618,Academic Writing Seminar,G,Ms. Fung Sze Wan,Wed,14:00-16:00,E637,2026S2
+BIOL1772,Operating Systems Seminar,D,Dr. Tam Lok Hin,Fri,11:00-12:30,H311,2026S1
+BIOL1891,Databases Laboratory,A,Dr. Lau Hiu Tung,Thu,10:00-12:00,E611,2026S2
+BIOL1899,Mechanics Project,C,Prof. Chow Man Hon,Fri,19:00-20:30,H324,2026S2
+BIOL1953,Probability and Applications,H,Dr. Lau Hiu Tung,Thu,10:00-12:00,E628,2026S2
+BIOL1968,Cell Biology and Applications,E,Prof. Chow Man Hon,Mon,18:00-19:30,E632,2026S1
+BIOL2185,Advanced Modern Literature,D,Ms. Kwan Po Yi,Tue,10:00-12:00,H301,2026S2
+BIOL2235,Algorithms Project,G,Mr. Ho Chun Kit,Mon,11:00-12:30,E602,2026S1
+BIOL2250,Topics in Financial Markets,B,Ms. Tsui Ka Yan,Tue,10:00-12:00,H311,2026S2
+BIOL2351,Financial Markets Workshop,E,Dr. Cheng Siu Chung,Mon,10:00-12:00,H306,2026S1
+BIOL2382,Advanced Networks,C,Dr. Yip Ka Fai,Mon,19:00-20:30,L203,2026S1
+BIOL2834,Data Analysis and Applications,C,Dr. Lau Hiu Tung,Wed,16:00-17:30,H303,2026S2
+BIOL2880,Topics in Modern Literature,C,Dr. Wong Lok Yi,Tue,18:00-19:30,E629,2026S1
+BIOL2933,Signals Laboratory,D,Dr. Chan Kai Man,Mon,18:00-19:30,L225,2026S2
+BIOL3008,Introduction to Probability,G,Ms. Fung Sze Wan,Wed,18:00-19:30,L206,2026S2
+BIOL3133,Algorithms and Applications,H,Prof. Tsang Wai Han,Tue,16:00-17:30,E627,2026S1
+BIOL3239,Topics in Discrete Mathematics,A,Dr. Wong Lok Yi,Fri,19:00-20:30,E627,2026S1
+BIOL3269,Introduction to Mechanics,C,Dr. Cheng Siu Chung,Tue,14:00-16:00,E610,2026S1
+BIOL3647,Microeconomics Laboratory,C,Dr. Lau Hiu Tung,Wed,13:00-14:30,L214,2026S1
+BIOL3675,Databases Project,H,Ms. Wong Hiu Lam,Thu,14:00-16:00,L207,2026S2
+BIOL3742,Operating Systems Seminar,A,Dr. Cheng Siu Chung,Mon,13:00-14:30,L219,2026S1
+BIOL3848,Cell Biology and Applications,F,Dr. Leung Ho Yin,Mon,13:00-14:30,H309,2026S2
+BIOL4332,Advanced Modern Literature,A,Ms. Fung Sze Wan,Tue,18:00-19:30,E625,2026S2
+BIOL4337,Networks and Applications,H,Dr. Tam Lok Hin,Wed,10:00-12:00,E637,2026S1
+BIOL4413,Linear Algebra and Applications,D,Prof. Tsang Wai Han,Mon,09:00-10:30,E605,2026S2
+BIOL4525,Circuits and Applications,H,Dr. Chan Kai Man,Fri,14:00-15:30,L224,2026S1
+BIOL4547,Databases Workshop,C,Dr. Ng Tsz Ho,Thu,10:00-12:00,E634,2026S1
+BIOL4715,Introduction to Microeconomics,D,Dr. Au Yeung Hoi,Mon,14:00-15:30,H305,2026S1
+BIOL4919,Topics in Operating Systems,E,Dr. Ng Tsz Ho,Thu,13:00-14:30,E635,2026S2
+CHEM1090,Organic Chemistry and Applications,E,Dr. Ng Tsz Ho,Tue,09:00-10:30,E635,2026S2
+CHEM1128,Linear Algebra Workshop,E,Dr. Au Yeung Hoi,Wed,10:00-12:00,E637,2026S1
+CHEM1194,Introduction to Organizational Behavior,C,Ms. Fung Sze Wan,Wed,09:00-10:30,E609,2026S2
+CHEM1281,Linear Algebra Laboratory,D,Ms. Wong Hiu Lam,Tue,10:00-12:00,H305,2026S1
+CHEM1345,Modern Literature and Applications,C,Prof. Chow Man Hon,Fri,14:00-16:00,E638,2026S2
+CHEM1491,Networks and Applications,C,Dr. Lee Siu Ming,Fri,11:00-12:30,H322,2026S2
+CHEM1519,Topics in Mechanics,F,Dr. Lee Siu Ming,Wed,11:00-12:30,E605,2026S1
+CHEM1561,Mechanics and Applications,A,Dr. Au Yeung Hoi,Wed,15:00-16:30,E615,2026S1
+CHEM1609,Cell Biology and Applications,A,Dr. Chan Kai Man,Thu,10:00-12:00,H316,2026S2
+CHEM1664,Cognitive Science and Applications,G,Prof. Lam Wing Kei,Wed,16:00-17:30,L216,2026S1
+CHEM1914,Microeconomics Workshop,C,Dr. Yip Ka Fai,Fri,10:00-12:00,E621,2026S1
+CHEM2166,Networks Project,A,Dr. Ng Tsz Ho,Mon,14:00-15:30,H310,2026S2
+CHEM2312,Advanced Algorithms,H,Dr. Chan Kai Man,Mon,13:00-14:30,H301,2026S2
+CHEM2385,Statistics Seminar,A,Dr. Mak Chi Shing,Fri,11:00-12:30,L220,2026S1
+CHEM2534,Introduction to Cell Biology,G,Dr. Tam Lok Hin,Mon,10:00-12:00,H312,2026S1
+CHEM2937,Microeconomics Seminar,A,Prof. Lam Wing Kei,Tue,09:00-10:30,H312,2026S2
+CHEM2973,Probability Workshop,E,Prof. Tsang Wai Han,Mon,14:00-16:00,E621,2026S1
+CHEM3235,Probability Seminar,D,Dr. Cheung Mei Ling,Thu,15:00-16:30,L212,2026S1
+CHEM3298,Introduction to Probability,G,Prof. Lam Wing Kei,Mon,14:00-16:00,H305,2026S1
+CHEM3363,Discrete Mathematics Workshop,D,Ms. Tsui Ka Yan,Mon,13:00-14:30,L211,2026S1
+CHEM3393,Circuits and Applications,B,Dr. Lee Siu Ming,Mon,15:00-16:30,E609,2026S2
+CHEM3475,Networks and Applications,H,Ms. Kwan Po Yi,Mon,14:00-16:00,H312,2026S2
+CHEM3673,Advanced Microeconomics,A,Dr. Tam Lok Hin,Thu,15:00-16:30,E637,2026S1
+CHEM3915,Discrete Mathematics Project,A,Prof. Lam Wing Kei,Fri,09:00-10:30,L223,2026S2
+CHEM4103,Control Systems and Applications,A,Dr. Au Yeung Hoi,Tue,14:00-16:00,E610,2026S1
+CHEM4229,Microeconomics Seminar,H,Mr. Ho Chun Kit,Tue,18:00-19:30,L206,2026S1
+CHEM4270,Topics in Academic Writing,D,Prof. Chow Man Hon,Fri,19:00-20:30,E628,2026S1
+CHEM4319,Control Systems Workshop,G,Prof. Tsang Wai Han,Mon,15:00-16:30,L218,2026S2
+CHEM4338,Topics in Financial Markets,A,Mr. Ho Chun Kit,Thu,14:00-16:00,E628,2026S1
+CHEM4382,Advanced Algorithms,E,Dr. Yip Ka Fai,Fri,14:00-16:00,E604,2026S1
+CHEM4462,Data Analysis Workshop,C,Dr. Tam Lok Hin,Fri,09:00-10:30,E624,2026S2
+CHEM4480,Financial Markets Seminar,E,Dr. Lee Siu Ming,Mon,19:00-20:30,H307,2026S2
+CHEM4491,Financial Markets and Applications,B,Ms. Fung Sze Wan,Thu,13:00-14:30,L203,2026S1
+CHEM4638,Introduction to Networks,B,Dr. Au Yeung Hoi,Mon,14:00-15:30,L209,2026S2
+CHEM4724,Introduction to Modern Literature,G,Prof. Tsang Wai Han,Tue,19:00-20:30,H310,2026S1
+CHEM4829,Advanced Operating Systems,D,Ms. Fung Sze Wan,Wed,16:00-17:30,E611,2026S1
+CHEM4873,Linear Algebra Project,G,Dr. Chan Kai Man,Fri,11:00-12:30,E615,2026S2
+CHEM4908,Organizational Behavior and Applications,B,Ms. Wong Hiu Lam,Tue,10:00-12:00,E622,2026S2
+CHIN1072,Microeconomics and Applications,D,Dr. Lee Siu Ming,Wed,14:00-15:30,L209,2026S2
+CHIN1255,Control Systems Seminar,A,Ms. Fung Sze Wan,Tue,18:00-19:30,H302,2026S1
+CHIN1280,Academic Writing Project,F,Prof. Chow Man Hon,Mon,10:00-12:00,E602,2026S1
+CHIN1473,Introduction to Signals,G,Prof. Lam Wing Kei,Fri,13:00-14:30,L207,2026S1
+CHIN1821,Linear Algebra and Applications,E,Dr. Mak Chi Shing,Wed,14:00-16:00,L205,2026S1
+CHIN1842,Topics in Algorithms,F,Prof. Chow Man Hon,Wed,18:00-19:30,E637,2026S2
+CHIN2096,Topics in Networks,E,Ms. Fung Sze Wan,Thu,13:00-14:30,H319,2026S1
+CHIN2304,Advanced Microeconomics,H,Dr. Cheng Siu Chung,Mon,14:00-16:00,E615,2026S2
+CHIN2341,Algorithms Seminar,G,Dr. Ng Tsz Ho,Mon,14:00-16:00,E608,2026S2
+CHIN2380,Topics in Linear Algebra,F,Prof. Chow Man Hon,Fri,18:00-19:30,E632,2026S1
+CHIN2466,Topics in Databases,G,Dr. Wong Lok Yi,Wed,10:00-12:00,H303,2026S1
+CHIN2487,Organizational Behavior Workshop,E,Dr. Mak Chi Shing,Mon,14:00-15:30,L206,2026S1
+CHIN2712,Topics in Financial Markets,C,Dr. Yip Ka Fai,Wed,16:00-17:30,E621,2026S1
+CHIN3026,Discrete Mathematics and Applications,A,Dr. Cheng Siu Chung,Tue,14:00-16:00,E620,2026S1
+CHIN3032,Cell Biology Laboratory,D,Dr. Lee Siu Ming,Mon,11:00-12:30,E633,2026S1
+CHIN3078,Operating Systems Seminar,G,Dr. Au Yeung Hoi,Thu,18:00-19:30,H305,2026S1
+CHIN3296,Circuits Seminar,G,Prof. Lam Wing Kei,Thu,14:00-16:00,E636,2026S1
+CHIN3534,Signals Laboratory,C,Mr. Ho Chun Kit,Wed,16:00-17:30,H313,2026S2
+CHIN3612,Signals Project,D,Ms. Fung Sze Wan,Tue,13:00-14:30,H317,2026S2
+CHIN3633,Topics in Modern Literature,E,Dr. Yip Ka Fai,Fri,19:00-20:30,E627,2026S1
+CHIN3947,Data Analysis Seminar,H,Ms. Wong Hiu Lam,Tue,14:00-15:30,L225,2026S1
+CHIN4022,Introduction to Circuits,H,Ms. Wong Hiu Lam,Tue,14:00-16:00,L223,2026S1
+CHIN4075,Introduction to Organizational Behavior,F,Dr. Mak Chi Shing,Tue,10:00-12:00,L215,2026S2
+CHIN4219,Introduction to Databases,F,Dr. Yip Ka Fai,Tue,18:00-19:30,H301,2026S1
+CHIN4256,Organizational Behavior Workshop,E,Dr. Lee Siu Ming,Mon,13:00-14:30,E623,2026S2
+CHIN4379,Introduction to Financial Markets,H,Prof. Chow Man Hon,Fri,18:00-19:30,E618,2026S2
+CHIN4528,Advanced Organic Chemistry,D,Ms. Tsui Ka Yan,Fri,16:00-17:30,E632,2026S1
+CHIN4768,Advanced Networks,D,Dr. Ng Tsz Ho,Tue,13:00-14:30,E604,2026S2
+CHIN4783,Introduction to Microeconomics,F,Dr. Tam Lok Hin,Fri,11:00-12:30,H308,2026S1
+CHIN4981,Introduction to Financial Markets,F,Dr. Wong Lok Yi,Mon,19:00-20:30,E609,2026S2
+COMP1160,Discrete Mathematics Workshop,C,Dr. Leung Ho Yin,Wed,14:00-16:00,L218,2026S1
+COMP1324,Introduction to Cognitive Science,C,Dr. Mak Chi Shing,Fri,11:00-12:30,L224,2026S1
+COMP1549,Microeconomics Project,H,Ms. Wong Hiu Lam,Mon,18:00-19:30,L204,2026S2
+COMP1631,Organic Chemistry Seminar,E,Prof. Tsang Wai Han,Fri,18:00-19:30,H318,2026S1
+COMP1808,Academic Writing Workshop,G,Prof. Chow Man Hon,Wed,14:00-16:00,L222,2026S1
+COMP1822,Mechanics and Applications,B,Prof. Chow Man Hon,Thu,11:00-12:30,E616,2026S2
+COMP1917,Introduction to Financial Markets,C,Dr. Cheng Siu Chung,Mon,18:00-19:30,E613,2026S1
+COMP1934,Introduction to Financial Markets,C,Ms. Fung Sze Wan,Thu,19:00-20:30,H324,2026S2
+COMP2009,Mechanics Workshop,A,Dr. Wong Lok Yi,Tue,15:00-16:30,L219,2026S1
+COMP2022,Signals Workshop,B,Dr. Leung Ho Yin,Fri,14:00-15:30,H305,2026S2
+COMP2043,Networks Project,F,Ms. Tsui Ka Yan,Fri,10:00-12:00,L225,2026S2
+COMP2056,Organic Chemistry Workshop,G,Prof. Chow Man Hon,Fri,19:00-20:30,L224,2026S1
+COMP2169,Academic Writing Laboratory,A,Dr. Tam Lok Hin,Tue,14:00-15:30,L201,2026S2
+COMP2430,Discrete Mathematics Project,F,Dr. Yip Ka Fai,Wed,10:00-12:00,E608,2026S1
+COMP2585,Signals and Applications,B,Ms. Wong Hiu Lam,Tue,18:00-19:30,L211,2026S2
+COMP2725,Advanced Probability,A,Dr. Tam Lok Hin,Thu,13:00-14:30,E610,2026S2
+COMP2765,Advanced Algorithms,A,Prof. Tsang Wai Han,Thu,18:00-19:30,H312,2026S2
+COMP2920,Statistics Laboratory,A,Dr. Mak Chi Shing,Wed,14:00-16:00,E631,2026S1
+COMP3220,Topics in Databases,C,Dr. Mak Chi Shing,Tue,09:00-10:30,H307,2026S2
+COMP3254,Introduction to Databases,H,Dr. Wong Lok Yi,Tue,10:00-12:00,E625,2026S2
+COMP3288,Topics in Academic Writing,F,Prof. Chow Man Hon,Fri,11:00-12:30,H321,2026S2
+COMP3370,Linear Algebra Seminar,A,Ms. Tsui Ka Yan,Fri,13:00-14:30,L211,2026S2
+COMP3392,Advanced Cognitive Science,A,Mr. Ho Chun Kit,Fri,19:00-20:30,E617,2026S2
+COMP3487,Introduction to Databases,C,Dr. Lau Hiu Tung,Wed,13:00-14:30,L229,2026S1
+COMP3532,Cell Biology and Applications,H,Prof. Lam Wing Kei,Mon,16:00-17:30,E613,2026S2
+COMP3858,Statistics and Applications,F,Dr. Mak Chi Shing,Fri,19:00-20:30,E617,2026S2
+COMP3880,Modern Literature Workshop,H,Dr. Tam Lok Hin,Fri,14:00-16:00,L220,2026S2
+COMP4089,Advanced Academic Writing,G,Dr. Cheng Siu Chung,Tue,16:00-17:30,L208,2026S2
+COMP4183,Introduction to Databases,G,Dr. Lau Hiu Tung,Thu,19:00-20:30,E609,2026S2
+COMP4632,Introduction to Networks,F,Dr. Cheng Siu Chung,Tue,10:00-12:00,L229,2026S2
+COMP4677,Introduction to Financial Markets,D,Dr. Cheung Mei Ling,Wed,19:00-20:30,L215,2026S2
+COMP4728,Algorithms Seminar,D,Dr. Au Yeung Hoi,Fri,15:00-16:30,L225,2026S1
+COMP4734,Probability Workshop,C,Ms. Fung Sze Wan,Tue,14:00-15:30,E629,2026S2
+COMP4812,Topics in Mechanics,D,Dr. Tam Lok Hin,Mon,10:00-12:00,H306,2026S1
+COMP4893,Microeconomics Seminar,H,Dr. Cheng Siu Chung,Wed,16:00-17:30,E634,2026S2
+COMP4943,Databases Workshop,D,Dr. Mak Chi Shing,Wed,09:00-10:30,L208,2026S2
+ECON1061,Advanced Algorithms,H,Dr. Au Yeung Hoi,Fri,19:00-20:30,H305,2026S2
+ECON1150,Modern Literature Laboratory,C,Prof. Tsang Wai Han,Tue,11:00-12:30,E635,2026S1
+ECON1276,Probability Project,G,Dr. Leung Ho Yin,Tue,10:00-12:00,E622,2026S2
+ECON1297,Control Systems Laboratory,C,Dr. Leung Ho Yin,Tue,18:00-19:30,E602,2026S1
+ECON1371,Modern Literature and Applications,E,Dr. Lee Siu Ming,Mon,16:00-17:30,H318,2026S2
+ECON1465,Modern Literature and Applications,A,Prof. Chow Man Hon,Fri,15:00-16:30,E632,2026S2
+ECON1762,Introduction to Financial Markets,D,Dr. Lau Hiu Tung,Tue,14:00-15:30,E634,2026S2
+ECON1868,Advanced Modern Literature,A,Dr. Leung Ho Yin,Thu,15:00-16:30,H313,2026S1
+ECON1923,Statistics Laboratory,H,Dr. Chan Kai Man,Wed,16:00-17:30,H306,2026S2
+ECON2328,Discrete Mathematics Workshop,D,Prof. Lam Wing Kei,Fri,10:00-12:00,E619,2026S1
+ECON2356,Algorithms and Applications,E,Dr. Tam Lok Hin,Wed,09:00-10:30,L220,2026S1
+ECON2361,Probability and Applications,E,Dr. Cheung Mei Ling,Tue,14:00-16:00,E638,2026S1
+ECON2439,Introduction to Algorithms,B,Dr. Tam Lok Hin,Thu,09:00-10:30,L217,2026S2
+ECON2604,Introduction to Probability,G,Prof. Chow Man Hon,Thu,14:00-15:30,E615,2026S1
+ECON2974,Introduction to Organic Chemistry,E,Prof. Tsang Wai Han,Wed,18:00-19:30,H315,2026S2
+ECON3007,Databases and Applications,B,Dr. Au Yeung Hoi,Tue,09:00-10:30,L221,2026S2
+ECON3054,Introduction to Cell Biology,D,Dr. Chan Kai Man,Mon,15:00-16:30,E604,2026S1
+ECON3172,Introduction to Networks,H,Dr. Chan Kai Man,Mon,19:00-20:30,L228,2026S2
+ECON3374,Topics in Cognitive Science,E,Dr. Mak Chi Shing,Fri,14:00-16:00,E605,2026S1
+ECON3476,Probability Workshop,E,Dr. Cheng Siu Chung,Fri,19:00-20:30,E629,2026S1
+ECON3623,Circuits Workshop,D,Ms. Tsui Ka Yan,Wed,19:00-20:30,L206,2026S2
+ECON4183,Topics in Linear Algebra,G,Dr. Cheung Mei Ling,Fri,14:00-16:00,L201,2026S1
+ECON4192,Advanced Databases,F,Ms. Tsui Ka Yan,Mon,14:00-16:00,E608,2026S1
+ECON4375,Operating Systems Project,A,Ms. Kwan Po Yi,Tue,14:00-16:00,E614,2026S1
+ECON4597,Advanced Networks,E,Dr. Wong Lok Yi,Wed,16:00-17:30,E614,2026S1
+ECON4628,Linear Algebra Workshop,H,Ms. Tsui Ka Yan,Thu,15:00-16:30,H310,2026S2
+ECON4705,Topics in Databases,D,Dr. Cheung Mei Ling,Mon,14:00-15:30,L221,2026S2
+ECON4710,Operating Systems Seminar,G,Dr. Lee Siu Ming,Mon,09:00-10:30,E603,2026S1
+ECON4941,Probability Seminar,B,Dr. Yip Ka Fai,Tue,15:00-16:30,E626,2026S2
+ECON4950,Signals Seminar,E,Ms. Fung Sze Wan,Wed,09:00-10:30,H306,2026S2
+ECON4959,Algorithms Seminar,E,Dr. Tam Lok Hin,Mon,14:00-16:00,E638,2026S2
+ECON4995,Networks Laboratory,H,Dr. Cheung Mei Ling,Fri,09:00-10:30,E630,2026S1
+ELEC1119,Statistics Project,B,Ms. Wong Hiu Lam,Fri,10:00-12:00,E628,2026S2
+ELEC1299,Linear Algebra Seminar,B,Dr. Wong Lok Yi,Thu,14:00-16:00,L216,2026S2
+ELEC1341,Linear Algebra Workshop,A,Dr. Lau Hiu Tung,Tue,18:00-19:30,L212,2026S1
+ELEC1401,Algorithms and Applications,E,Dr. Cheung Mei Ling,Mon,14:00-16:00,L222,2026S1
+ELEC1740,Topics in Mechanics,H,Dr. Tam Lok Hin,Fri,11:00-12:30,E618,2026S2
+ELEC2031,Cognitive Science Seminar,D,Dr. Yip Ka Fai,Tue,18:00-19:30,E604,2026S2
+ELEC2089,Data Analysis Project,G,Prof. Chow Man Hon,Fri,15:00-16:30,E624,2026S2
+ELEC2234,Introduction to Networks,B,Dr. Au Yeung Hoi,Tue,16:00-17:30,H320,2026S2
+ELEC2271,Organic Chemistry Seminar,D,Ms. Fung Sze Wan,Wed,16:00-17:30,H314,2026S2
+ELEC2355,Topics in Probability,C,Dr. Ng Tsz Ho,Fri,18:00-19:30,E608,2026S1
+ELEC2601,Introduction to Organizational Behavior,B,Dr. Lau Hiu Tung,Wed,16:00-17:30,E610,2026S2
+ELEC2634,Topics in Microeconomics,E,Dr. Ng Tsz Ho,Fri,19:00-20:30,H302,2026S1
+ELEC2748,Advanced Academic Writing,H,Prof. Lam Wing Kei,Thu,18:00-19:30,L210,2026S2
+ELEC2788,Introduction to Control Systems,E,Dr. Tam Lok Hin,Tue,18:00-19:30,E623,2026S1
+ELEC2823,Cell Biology Laboratory,C,Dr. Yip Ka Fai,Tue,14:00-15:30,E632,2026S2
+ELEC2937,Advanced Operating Systems,A,Prof. Lam Wing Kei,Thu,13:00-14:30,H314,2026S1
+ELEC2961,Algorithms and Applications,B,Mr. Ho Chun Kit,Wed,18:00-19:30,E637,2026S2
+ELEC3012,Modern Literature and Applications,B,Ms. Fung Sze Wan,Wed,13:00-14:30,L213,2026S1
+ELEC3044,Signals Workshop,A,Dr. Lau Hiu Tung,Wed,09:00-10:30,H307,2026S2
+ELEC3365,Advanced Organizational Behavior,C,Dr. Au Yeung Hoi,Thu,18:00-19:30,L212,2026S2
+ELEC3445,Cell Biology Laboratory,F,Prof. Tsang Wai Han,Wed,19:00-20:30,H304,2026S2
+ELEC3451,Discrete Mathematics Laboratory,H,Dr. Yip Ka Fai,Tue,11:00-12:30,H318,2026S2
+ELEC3604,Introduction to Algorithms,H,Ms. Fung Sze Wan,Thu,16:00-17:30,H318,2026S2
+ELEC3792,Advanced Signals,F,Ms. Fung Sze Wan,Wed,19:00-20:30,E604,2026S1
+ELEC3893,Organizational Behavior and Applications,B,Dr. Mak Chi Shing,Wed,09:00-10:30,L204,2026S2
+ELEC3895,Introduction to Organic Chemistry,H,Dr. Au Yeung Hoi,Tue,13:00-14:30,H317,2026S1
+ELEC3975,Signals Seminar,H,Ms. Kwan Po Yi,Thu,15:00-16:30,E601,2026S1
+ELEC4114,Statistics and Applications,H,Dr. Au Yeung Hoi,Fri,10:00-12:00,H302,2026S1
+ELEC4229,Introduction to Microeconomics,C,Prof. Chow Man Hon,Tue,14:00-16:00,E633,2026S1
+ELEC4583,Signals and Applications,E,Prof. Chow Man Hon,Mon,15:00-16:30,L208,2026S2
+ELEC4615,Advanced Algorithms,A,Dr. Chan Kai Man,Thu,10:00-12:00,L226,2026S1
+ELEC4752,Control Systems Workshop,E,Dr. Lee Siu Ming,Wed,18:00-19:30,E629,2026S2
+ELEC4879,Introduction to Probability,D,Ms. Kwan Po Yi,Wed,11:00-12:30,E625,2026S2
+ENGL1001,Algorithms Workshop,C,Dr. Au Yeung Hoi,Mon,19:00-20:30,L209,2026S1
+ENGL1082,Advanced Databases,F,Mr. Ho Chun Kit,Fri,13:00-14:30,E629,2026S2
+ENGL1083,Advanced Control Systems,H,Prof. Lam Wing Kei,Thu,14:00-15:30,L208,2026S1
+ENGL1144,Cell Biology Project,D,Prof. Tsang Wai Han,Tue,14:00-16:00,L213,2026S1
+ENGL1160,Organic Chemistry Seminar,G,Mr. Ho Chun Kit,Wed,19:00-20:30,L203,2026S2
+ENGL1463,Control Systems and Applications,B,Dr. Wong Lok Yi,Thu,11:00-12:30,H324,2026S1
+ENGL1743,Databases Workshop,G,Dr. Lau Hiu Tung,Fri,13:00-14:30,H309,2026S1
+ENGL1925,Introduction to Control Systems,H,Dr. Tam Lok Hin,Mon,16:00-17:30,H319,2026S2
+ENGL2455,Networks Workshop,A,Dr. Cheung Mei Ling,Thu,10:00-12:00,H320,2026S2
+ENGL2501,Introduction to Control Systems,E,Ms. Wong Hiu Lam,Fri,18:00-19:30,H316,2026S1
+ENGL2538,Databases Project,B,Dr. Lau Hiu Tung,Mon,11:00-12:30,H304,2026S1
+ENGL2551,Advanced Microeconomics,D,Ms. Wong Hiu Lam,Thu,14:00-15:30,E608,2026S1
+ENGL2688,Mechanics Seminar,A,Prof. Chow Man Hon,Mon,19:00-20:30,L203,2026S2
+ENGL2875,Cell Biology Workshop,D,Prof. Tsang Wai Han,Mon,19:00-20:30,H314,2026S1
+ENGL2963,Statistics Seminar,B,Prof. Lam Wing Kei,Wed,13:00-14:30,E604,2026S1
+ENGL3283,Topics in Algorithms,F,Dr. Leung Ho Yin,Fri,14:00-16:00,L201,2026S1
+ENGL3295,Linear Algebra Project,H,Ms. Wong Hiu Lam,Wed,14:00-15:30,L228,2026S2
+ENGL3369,Organizational Behavior Seminar,C,Dr. Yip Ka Fai,Wed,14:00-16:00,L214,2026S1
+ENGL3418,Statistics Laboratory,F,Dr. Au Yeung Hoi,Tue,13:00-14:30,H321,2026S1
+ENGL3524,Mechanics Workshop,B,Prof. Chow Man Hon,Tue,14:00-16:00,H321,2026S2
+ENGL3593,Networks and Applications,C,Dr. Chan Kai Man,Tue,11:00-12:30,E614,2026S1
+ENGL3658,Topics in Networks,E,Dr. Au Yeung Hoi,Wed,18:00-19:30,L205,2026S2
+ENGL3746,Probability Laboratory,B,Ms. Wong Hiu Lam,Fri,10:00-12:00,H324,2026S2
+ENGL3818,Linear Algebra and Applications,D,Ms. Tsui Ka Yan,Wed,11:00-12:30,L219,2026S2
+ENGL3994,Statistics Project,E,Dr. Au Yeung Hoi,Wed,19:00-20:30,E628,2026S1
+ENGL4030,Advanced Circuits,B,Dr. Au Yeung Hoi,Tue,10:00-12:00,L210,2026S1
+ENGL4384,Signals Project,H,Dr. Lee Siu Ming,Wed,15:00-16:30,E623,2026S2
+ENGL4390,Topics in Operating Systems,E,Ms. Kwan Po Yi,Thu,18:00-19:30,H314,2026S2
+ENGL4416,Organic Chemistry Laboratory,F,Ms. Fung Sze Wan,Tue,14:00-16:00,E625,2026S2
+ENGL4484,Circuits and Applications,C,Dr. Tam Lok Hin,Tue,10:00-12:00,E621,2026S2
+ENGL4711,Advanced Probability,C,Prof. Tsang Wai Han,Tue,14:00-16:00,E635,2026S2
+ENGL4813,Cognitive Science Workshop,H,Dr. Ng Tsz Ho,Wed,11:00-12:30,L220,2026S1
+ENGL4983,Advanced Control Systems,H,Ms. Wong Hiu Lam,Thu,10:00-12:00,E625,2026S1
+ENGL4998,Circuits Project,E,Dr. Leung Ho Yin,Fri,19:00-20:30,H321,2026S1
+FINA1034,Databases Laboratory,C,Mr. Ho Chun Kit,Tue,09:00-10:30,L229,2026S1
+FINA1077,Mechanics and Applications,H,Dr. Wong Lok Yi,Thu,11:00-12:30,E601,2026S2
+FINA1164,Topics in Circuits,B,Dr. Lee Siu Ming,Fri,16:00-17:30,L228,2026S2
+FINA1208,Circuits Project,B,Dr. Lee Siu Ming,Mon,13:00-14:30,H322,2026S1
+FINA1315,Probability Laboratory,B,Mr. Ho Chun Kit,Thu,10:00-12:00,E602,2026S1
+FINA1378,Data Analysis Project,E,Dr. Cheng Siu Chung,Fri,18:00-19:30,E620,2026S1
+FINA1445,Topics in Financial Markets,B,Dr. Cheung Mei Ling,Wed,09:00-10:30,E633,2026S1
+FINA1544,Financial Markets and Applications,H,Dr. Lee Siu Ming,Fri,10:00-12:00,H312,2026S2
+FINA1586,Academic Writing Project,C,Dr. Lau Hiu Tung,Fri,10:00-12:00,E629,2026S2
+FINA1795,Advanced Databases,H,Mr. Ho Chun Kit,Mon,11:00-12:30,E625,2026S1
+FINA1945,Academic Writing Workshop,G,Ms. Kwan Po Yi,Thu,14:00-15:30,E608,2026S2
+FINA1966,Advanced Signals,C,Dr. Cheung Mei Ling,Wed,13:00-14:30,H304,2026S1
+FINA2023,Topics in Modern Literature,E,Prof. Tsang Wai Han,Tue,13:00-14:30,L208,2026S1
+FINA2076,Algorithms Laboratory,B,Mr. Ho Chun Kit,Thu,18:00-19:30,H324,2026S2
+FINA2329,Cell Biology Workshop,H,Dr. Au Yeung Hoi,Mon,19:00-20:30,L217,2026S2
+FINA2360,Topics in Organizational Behavior,H,Prof. Tsang Wai Han,Tue,14:00-16:00,H320,2026S1
+FINA2369,Data Analysis Seminar,H,Dr. Leung Ho Yin,Wed,10:00-12:00,L209,2026S1
+FINA2470,Academic Writing and Applications,H,Dr. Yip Ka Fai,Tue,13:00-14:30,L223,2026S1
+FINA2494,Probability Workshop,B,Ms. Kwan Po Yi,Wed,16:00-17:30,E614,2026S2
+FINA2605,Networks and Applications,G,Dr. Tam Lok Hin,Wed,14:00-15:30,H311,2026S2
+FINA2685,Modern Literature and Applications,D,Dr. Yip Ka Fai,Thu,14:00-15:30,L222,2026S1
+FINA2860,Cognitive Science Laboratory,C,Prof. Chow Man Hon,Wed,11:00-12:30,E626,2026S1
+FINA2868,Signals Project,D,Dr. Lau Hiu Tung,Fri,14:00-15:30,E607,2026S1
+FINA2950,Linear Algebra Seminar,F,Dr. Cheung Mei Ling,Fri,15:00-16:30,H307,2026S1
+FINA2968,Introduction to Algorithms,B,Ms. Wong Hiu Lam,Wed,09:00-10:30,E611,2026S2
+FINA3185,Organizational Behavior and Applications,A,Ms. Tsui Ka Yan,Wed,10:00-12:00,E604,2026S1
+FINA3198,Topics in Discrete Mathematics,B,Mr. Ho Chun Kit,Mon,19:00-20:30,H303,2026S2
+FINA3204,Signals Seminar,C,Dr. Chan Kai Man,Wed,19:00-20:30,E609,2026S2
+FINA3243,Probability Seminar,A,Dr. Au Yeung Hoi,Wed,09:00-10:30,E625,2026S2
+FINA3311,Networks Workshop,E,Prof. Lam Wing Kei,Fri,10:00-12:00,H307,2026S1
+FINA3343,Linear Algebra and Applications,G,Mr. Ho Chun Kit,Tue,10:00-12:00,E611,2026S1
+FINA3468,Signals Project,C,Dr. Chan Kai Man,Tue,13:00-14:30,H323,2026S2
+FINA3537,Linear Algebra Project,B,Ms. Tsui Ka Yan,Mon,10:00-12:00,H304,2026S2
+FINA3647,Networks Laboratory,A,Dr. Mak Chi Shing,Thu,14:00-16:00,L211,2026S1
+FINA3718,Organizational Behavior Workshop,C,Dr. Chan Kai Man,Thu,14:00-16:00,E631,2026S1
+FINA3734,Topics in Statistics,G,Prof. Lam Wing Kei,Fri,14:00-15:30,L226,2026S1
+FINA3924,Cell Biology Seminar,B,Dr. Yip Ka Fai,Wed,16:00-17:30,H303,2026S1
+FINA4100,Statistics Laboratory,C,Dr. Cheung Mei Ling,Tue,14:00-15:30,L212,2026S2
+FINA4673,Cell Biology Laboratory,H,Ms. Tsui Ka Yan,Tue,10:00-12:00,H322,2026S1
+FINA4755,Introduction to Signals,B,Mr. Ho Chun Kit,Mon,11:00-12:30,H311,2026S2
+FINA4769,Probability Laboratory,G,Dr. Yip Ka Fai,Fri,11:00-12:30,H314,2026S2
+MATH1009,Advanced Discrete Mathematics,G,Dr. Chan Kai Man,Tue,14:00-15:30,E639,2026S2
+MATH1091,Advanced Signals,F,Dr. Cheng Siu Chung,Mon,14:00-15:30,E635,2026S1
+MATH1513,Discrete Mathematics Seminar,C,Ms. Tsui Ka Yan,Mon,15:00-16:30,L210,2026S1
+MATH1570,Academic Writing and Applications,H,Ms. Kwan Po Yi,Fri,14:00-15:30,H308,2026S1
+MATH1604,Topics in Financial Markets,B,Dr. Tam Lok Hin,Mon,14:00-16:00,L228,2026S1
+MATH1618,Cognitive Science and Applications,H,Dr. Chan Kai Man,Tue,18:00-19:30,H303,2026S2
+MATH1737,Control Systems and Applications,E,Dr. Tam Lok Hin,Mon,18:00-19:30,L219,2026S2
+MATH1774,Topics in Organizational Behavior,D,Dr. Tam Lok Hin,Tue,15:00-16:30,E635,2026S1
+MATH1986,Topics in Mechanics,B,Dr. Mak Chi Shing,Fri,13:00-14:30,E617,2026S1
+MATH2028,Organic Chemistry and Applications,H,Ms. Fung Sze Wan,Mon,16:00-17:30,H306,2026S2
+MATH2176,Operating Systems Project,A,Dr. Au Yeung Hoi,Fri,14:00-16:00,E611,2026S1
+MATH2241,Topics in Algorithms,G,Prof. Lam Wing Kei,Tue,15:00-16:30,E615,2026S1
+MATH2279,Statistics and Applications,A,Dr. Leung Ho Yin,Mon,15:00-16:30,L212,2026S2
+MATH2345,Introduction to Operating Systems,A,Dr. Ng Tsz Ho,Thu,16:00-17:30,L214,2026S2
+MATH2473,Linear Algebra Laboratory,D,Ms. Kwan Po Yi,Wed,18:00-19:30,L203,2026S2
+MATH2496,Introduction to Financial Markets,A,Prof. Lam Wing Kei,Fri,18:00-19:30,H308,2026S1
+MATH2814,Organic Chemistry Seminar,B,Mr. Ho Chun Kit,Fri,14:00-16:00,E618,2026S2
+MATH2849,Advanced Academic Writing,B,Dr. Leung Ho Yin,Mon,13:00-14:30,H306,2026S2
+MATH2892,Introduction to Discrete Mathematics,B,Dr. Cheung Mei Ling,Thu,13:00-14:30,L211,2026S2
+MATH2918,Topics in Financial Markets,E,Dr. Lau Hiu Tung,Wed,18:00-19:30,L220,2026S2
+MATH3213,Linear Algebra Workshop,A,Ms. Kwan Po Yi,Wed,15:00-16:30,H324,2026S2
+MATH3245,Introduction to Linear Algebra,H,Prof. Lam Wing Kei,Mon,13:00-14:30,H313,2026S2
+MATH3306,Mechanics Workshop,D,Prof. Tsang Wai Han,Tue,14:00-15:30,L212,2026S2
+MATH3428,Introduction to Mechanics,E,Prof. Chow Man Hon,Thu,18:00-19:30,L224,2026S1
+MATH3469,Operating Systems and Applications,B,Dr. Mak Chi Shing,Thu,16:00-17:30,H309,2026S2
+MATH3657,Statistics Project,C,Dr. Au Yeung Hoi,Fri,14:00-16:00,E625,2026S1
+MATH3660,Discrete Mathematics Laboratory,G,Dr. Tam Lok Hin,Thu,18:00-19:30,H302,2026S2
+MATH3725,Introduction to Cognitive Science,A,Prof. Lam Wing Kei,Fri,10:00-12:00,L223,2026S1
+MATH3825,Modern Literature Project,D,Dr. Leung Ho Yin,Wed,11:00-12:30,H315,2026S2
+MATH3828,Statistics and Applications,B,Ms. Fung Sze Wan,Mon,11:00-12:30,L203,2026S2
+MATH4038,Topics in Mechanics,B,Dr. Yip Ka Fai,Fri,14:00-16:00,E632,2026S2
+MATH4186,Topics in Linear Algebra,H,Dr. Leung Ho Yin,Mon,14:00-15:30,E639,2026S1
+MATH4318,Topics in Signals,C,Dr. Lau Hiu Tung,Wed,09:00-10:30,H314,2026S2
+MATH4370,Introduction to Signals,C,Prof. Tsang Wai Han,Tue,10:00-12:00,E617,2026S2
+MATH4444,Introduction to Data Analysis,A,Dr. Leung Ho Yin,Tue,11:00-12:30,L204,2026S2
+MATH4517,Statistics Laboratory,G,Prof. Chow Man Hon,Mon,10:00-12:00,E618,2026S1
+MATH4532,Algorithms and Applications,E,Ms. Fung Sze Wan,Tue,10:00-12:00,E619,2026S2
+MATH4619,Signals Workshop,H,Dr. Wong Lok Yi,Mon,13:00-14:30,E605,2026S1
+MATH4630,Introduction to Academic Writing,B,Dr. Yip Ka Fai,Thu,15:00-16:30,H318,2026S2
+MATH4828,Advanced Operating Systems,H,Ms. Tsui Ka Yan,Wed,15:00-16:30,H316,2026S2
+MATH4837,Advanced Data Analysis,A,Prof. Lam Wing Kei,Mon,15:00-16:30,E624,2026S1
+MGMT1019,Introduction to Probability,B,Dr. Ng Tsz Ho,Fri,13:00-14:30,E639,2026S1
+MGMT1039,Databases Seminar,D,Ms. Fung Sze Wan,Thu,11:00-12:30,L206,2026S2
+MGMT1102,Topics in Algorithms,C,Mr. Ho Chun Kit,Wed,19:00-20:30,L209,2026S1
+MGMT1125,Topics in Statistics,E,Dr. Mak Chi Shing,Thu,10:00-12:00,L210,2026S1
+MGMT1257,Modern Literature Seminar,G,Dr. Au Yeung Hoi,Thu,10:00-12:00,H304,2026S1
+MGMT1287,Organizational Behavior Workshop,H,Dr. Ng Tsz Ho,Tue,14:00-16:00,H301,2026S1
+MGMT1435,Advanced Financial Markets,H,Dr. Lau Hiu Tung,Thu,18:00-19:30,E633,2026S1
+MGMT1564,Operating Systems Laboratory,B,Dr. Mak Chi Shing,Wed,10:00-12:00,H303,2026S2
+MGMT1650,Circuits Project,A,Ms. Wong Hiu Lam,Mon,11:00-12:30,L216,2026S1
+MGMT1669,Signals Seminar,H,Dr. Au Yeung Hoi,Wed,09:00-10:30,L217,2026S2
+MGMT1759,Topics in Cell Biology,C,Dr. Lee Siu Ming,Wed,18:00-19:30,H313,2026S1
+MGMT2018,Databases and Applications,A,Mr. Ho Chun Kit,Wed,14:00-15:30,H324,2026S1
+MGMT2100,Cognitive Science Project,E,Ms. Kwan Po Yi,Thu,16:00-17:30,L208,2026S1
+MGMT2100,Statistics Workshop,D,Dr. Lau Hiu Tung,Mon,09:00-10:30,H311,2026S1
+MGMT2175,Introduction to Statistics,F,Dr. Ng Tsz Ho,Tue,10:00-12:00,E607,2026S2
+MGMT2184,Topics in Databases,H,Prof. Tsang Wai Han,Fri,14:00-15:30,E608,2026S2
+MGMT2271,Statistics Seminar,G,Ms. Wong Hiu Lam,Wed,18:00-19:30,E638,2026S1
+MGMT2370,Cognitive Science Workshop,B,Mr. Ho Chun Kit,Fri,13:00-14:30,H302,2026S1
+MGMT2516,Advanced Statistics,H,Dr. Cheung Mei Ling,Tue,09:00-10:30,L214,2026S1
+MGMT2604,Advanced Networks,H,Ms. Fung Sze Wan,Tue,13:00-14:30,L220,2026S2
+MGMT2973,Advanced Linear Algebra,D,Prof. Chow Man Hon,Wed,19:00-20:30,E603,2026S2
+MGMT3066,Circuits and Applications,B,Dr. Leung Ho Yin,Mon,14:00-16:00,H307,2026S1
+MGMT3178,Cognitive Science Seminar,B,Dr. Au Yeung Hoi,Wed,11:00-12:30,L208,2026S1
+MGMT3311,Mechanics Project,G,Dr. Yip Ka Fai,Mon,14:00-15:30,E605,2026S2
+MGMT3623,Introduction to Databases,C,Dr. Ng Tsz Ho,Wed,14:00-15:30,H320,2026S1
+MGMT3654,Topics in Modern Literature,G,Dr. Yip Ka Fai,Thu,11:00-12:30,L221,2026S1
+MGMT3962,Advanced Operating Systems,D,Ms. Fung Sze Wan,Mon,09:00-10:30,E627,2026S2
+MGMT3999,Topics in Networks,B,Prof. Tsang Wai Han,Wed,09:00-10:30,H309,2026S2
+MGMT4069,Advanced Modern Literature,D,Ms. Wong Hiu Lam,Tue,14:00-15:30,E623,2026S2
+MGMT4477,Mechanics Project,H,Dr. Ng Tsz Ho,Thu,15:00-16:30,H301,2026S2
+MGMT4625,Mechanics Project,F,Ms. Tsui Ka Yan,Fri,11:00-12:30,L218,2026S1
+MGMT4865,Data Analysis Workshop,G,Dr. Ng Tsz Ho,Tue,18:00-19:30,E634,2026S2
+MGMT4938,Introduction to Academic Writing,C,Mr. Ho Chun Kit,Thu,09:00-10:30,L225,2026S2
+MGMT4967,Advanced Organizational Behavior,B,Dr. Leung Ho Yin,Tue,14:00-15:30,H319,2026S2
+PHYS1282,Linear Algebra Laboratory,E,Prof. Chow Man Hon,Tue,09:00-10:30,L213,2026S2
+PHYS1948,Advanced Linear Algebra,B,Prof. Tsang Wai Han,Wed,18:00-19:30,E604,2026S2
+PHYS1948,Advanced Signals,B,Dr. Ng Tsz Ho,Wed,10:00-12:00,E608,2026S1
+PHYS2282,Databases Seminar,E,Dr. Ng Tsz Ho,Fri,09:00-10:30,L201,2026S2
+PHYS2817,Cognitive Science Workshop,D,Dr. Leung Ho Yin,Wed,11:00-12:30,H301,2026S2
+PHYS3004,Topics in Algorithms,E,Dr. Wong Lok Yi,Wed,18:00-19:30,E634,2026S1
+PHYS3048,Linear Algebra Laboratory,F,Dr. Leung Ho Yin,Fri,15:00-16:30,E621,2026S2
+PHYS3074,Operating Systems Laboratory,B,Prof. Chow Man Hon,Wed,10:00-12:00,L208,2026S1
+PHYS3191,Introduction to Control Systems,B,Ms. Fung Sze Wan,Mon,14:00-16:00,H308,2026S2
+PHYS3332,Academic Writing Laboratory,C,Dr. Mak Chi Shing,Wed,13:00-14:30,L212,2026S2
+PHYS3415,Control Systems Seminar,C,Dr. Ng Tsz Ho,Mon,14:00-16:00,E605,2026S1
+PHYS3416,Statistics Seminar,E,Dr. Yip Ka Fai,Tue,16:00-17:30,H316,2026S1
+PHYS3592,Microeconomics and Applications,B,Dr. Lee Siu Ming,Wed,16:00-17:30,L219,2026S1
+PHYS3656,Topics in Data Analysis,D,Prof. Tsang Wai Han,Mon,18:00-19:30,E634,2026S1
+PHYS3705,Advanced Operating Systems,H,Dr. Leung Ho Yin,Wed,16:00-17:30,L208,2026S2
+PHYS3807,Introduction to Statistics,B,Dr. Wong Lok Yi,Wed,19:00-20:30,H302,2026S2
+PHYS3817,Organic Chemistry Laboratory,C,Prof. Chow Man Hon,Wed,18:00-19:30,L217,2026S2
+PHYS3827,Circuits Workshop,H,Mr. Ho Chun Kit,Fri,16:00-17:30,E619,2026S1
+PHYS4619,Cell Biology and Applications,D,Dr. Cheng Siu Chung,Tue,10:00-12:00,E601,2026S2
+PHYS4685,Mechanics Seminar,E,Ms. Kwan Po Yi,Fri,09:00-10:30,H307,2026S2
+PHYS4716,Introduction to Probability,A,Prof. Lam Wing Kei,Wed,14:00-15:30,E609,2026S1
+PSYC1054,Signals Seminar,H,Dr. Tam Lok Hin,Tue,16:00-17:30,E631,2026S1
+PSYC1172,Statistics Laboratory,C,Ms. Tsui Ka Yan,Fri,09:00-10:30,L211,2026S2
+PSYC1317,Signals Seminar,F,Dr. Wong Lok Yi,Thu,09:00-10:30,E611,2026S1
+PSYC1400,Advanced Operating Systems,H,Ms. Kwan Po Yi,Fri,16:00-17:30,E632,2026S1
+PSYC1486,Circuits Project,A,Dr. Leung Ho Yin,Mon,09:00-10:30,H310,2026S1
+PSYC1758,Organizational Behavior Workshop,B,Dr. Cheung Mei Ling,Fri,09:00-10:30,E639,2026S2
+PSYC1799,Circuits Seminar,B,Dr. Tam Lok Hin,Mon,18:00-19:30,L220,2026S2
+PSYC1877,Topics in Circuits,C,Dr. Cheng Siu Chung,Thu,14:00-15:30,H320,2026S1
+PSYC1935,Networks Project,D,Dr. Wong Lok Yi,Thu,18:00-19:30,H304,2026S1
+PSYC1950,Networks Project,H,Prof. Lam Wing Kei,Fri,16:00-17:30,E617,2026S1
+PSYC1961,Algorithms and Applications,H,Ms. Tsui Ka Yan,Tue,18:00-19:30,L222,2026S1
+PSYC2201,Signals Workshop,B,Dr. Cheng Siu Chung,Tue,11:00-12:30,E637,2026S1
+PSYC2214,Networks Workshop,D,Dr. Cheung Mei Ling,Tue,09:00-10:30,E620,2026S2
+PSYC2246,Cognitive Science and Applications,C,Ms. Tsui Ka Yan,Fri,14:00-16:00,E610,2026S1
+PSYC2591,Control Systems and Applications,D,Prof. Chow Man Hon,Mon,15:00-16:30,E637,2026S1
+PSYC2698,Discrete Mathematics Project,F,Dr. Cheung Mei Ling,Fri,19:00-20:30,L205,2026S2
+PSYC2705,Academic Writing Workshop,C,Dr. Au Yeung Hoi,Mon,16:00-17:30,L205,2026S2
+PSYC2828,Microeconomics Laboratory,E,Ms. Tsui Ka Yan,Thu,19:00-20:30,H313,2026S1
+PSYC2829,Advanced Organic Chemistry,B,Dr. Leung Ho Yin,Wed,09:00-10:30,E601,2026S1
+PSYC2901,Organizational Behavior Laboratory,G,Dr. Tam Lok Hin,Tue,19:00-20:30,L202,2026S1
+PSYC3032,Control Systems Workshop,A,Dr. Chan Kai Man,Fri,10:00-12:00,E614,2026S1
+PSYC3096,Advanced Networks,G,Prof. Chow Man Hon,Wed,10:00-12:00,H303,2026S2
+PSYC3307,Topics in Statistics,E,Dr. Chan Kai Man,Wed,14:00-15:30,E601,2026S1
+PSYC3477,Topics in Organic Chemistry,G,Dr. Leung Ho Yin,Tue,11:00-12:30,H317,2026S1
+PSYC3587,Topics in Financial Markets,C,Dr. Ng Tsz Ho,Wed,19:00-20:30,E619,2026S2
+PSYC3660,Introduction to Statistics,G,Prof. Lam Wing Kei,Mon,13:00-14:30,E626,2026S1
+PSYC3723,Mechanics Project,G,Dr. Tam Lok Hin,Tue,10:00-12:00,L215,2026S2
+PSYC3787,Organic Chemistry Project,B,Ms. Fung Sze Wan,Tue,14:00-16:00,H302,2026S1
+PSYC3794,Advanced Probability,E,Dr. Ng Tsz Ho,Thu,10:00-12:00,L202,2026S2
+PSYC3803,Topics in Cell Biology,G,Prof. Lam Wing Kei,Tue,13:00-14:30,L210,2026S2
+PSYC3878,Databases Workshop,D,Ms. Fung Sze Wan,Wed,13:00-14:30,E627,2026S1
+PSYC4001,Modern Literature Seminar,F,Dr. Cheung Mei Ling,Fri,18:00-19:30,E605,2026S1
+PSYC4090,Advanced Linear Algebra,C,Dr. Cheng Siu Chung,Thu,14:00-15:30,E613,2026S1
+PSYC4211,Networks Project,H,Prof. Lam Wing Kei,Tue,14:00-15:30,L222,2026S2
+PSYC4457,Cognitive Science Laboratory,E,Prof. Chow Man Hon,Tue,11:00-12:30,L203,2026S2
+PSYC4559,Microeconomics Seminar,B,Dr. Lee Siu Ming,Wed,18:00-19:30,E601,2026S2
+PSYC4690,Microeconomics Workshop,D,Dr. Wong Lok Yi,Wed,16:00-17:30,E619,2026S2
+PSYC4958,Probability Seminar,F,Dr. Tam Lok Hin,Mon,18:00-19:30,H302,2026S2
+PSYC4960,Advanced Mechanics,A,Dr. Au Yeung Hoi,Tue,18:00-19:30,E614,2026S1
+STAT1054,Topics in Databases,C,Dr. Lee Siu Ming,Wed,09:00-10:30,H306,2026S1
+STAT1094,Probability Laboratory,B,Mr. Ho Chun Kit,Tue,19:00-20:30,L206,2026S2
+STAT1229,Advanced Circuits,F,Dr. Tam Lok Hin,Tue,14:00-16:00,L218,2026S2
+STAT1257,Linear Algebra Laboratory,H,Prof. Chow Man Hon,Mon,10:00-12:00,H305,2026S2
+STAT1645,Statistics Laboratory,B,Prof. Lam Wing Kei,Thu,15:00-16:30,H304,2026S2
+STAT1935,Signals Seminar,D,Dr. Lau Hiu Tung,Thu,14:00-15:30,H319,2026S2
+STAT2030,Control Systems Laboratory,E,Dr. Yip Ka Fai,Mon,18:00-19:30,L215,2026S1
+STAT2050,Statistics Project,B,Dr. Mak Chi Shing,Tue,13:00-14:30,H323,2026S2
+STAT2099,Organic Chemistry Laboratory,B,Dr. Lee Siu Ming,Mon,15:00-16:30,H315,2026S2
+STAT2128,Cognitive Science Laboratory,E,Dr. Chan Kai Man,Thu,09:00-10:30,E637,2026S2
+STAT2140,Data Analysis and Applications,G,Ms. Wong Hiu Lam,Mon,18:00-19:30,L221,2026S1
+STAT2160,Topics in Probability,D,Prof. Lam Wing Kei,Mon,09:00-10:30,H315,2026S1
+STAT2162,Topics in Probability,D,Dr. Cheng Siu Chung,Mon,14:00-16:00,E618,2026S1
+STAT2311,Topics in Linear Algebra,A,Dr. Yip Ka Fai,Thu,18:00-19:30,L207,2026S1
+STAT2415,Introduction to Operating Systems,B,Ms. Kwan Po Yi,Fri,14:00-15:30,H302,2026S2
+STAT2428,Cognitive Science and Applications,C,Mr. Ho Chun Kit,Thu,14:00-15:30,E603,2026S2
+STAT2541,Organic Chemistry Seminar,E,Dr. Lau Hiu Tung,Fri,09:00-10:30,E626,2026S2
+STAT2573,Statistics Laboratory,A,Dr. Au Yeung Hoi,Mon,19:00-20:30,E625,2026S2
+STAT2633,Databases Project,G,Ms. Kwan Po Yi,Fri,16:00-17:30,H314,2026S2
+STAT2724,Probability Project,G,Prof. Lam Wing Kei,Wed,18:00-19:30,E613,2026S2
+STAT2870,Academic Writing and Applications,G,Prof. Chow Man Hon,Tue,11:00-12:30,L219,2026S2
+STAT2880,Mechanics Seminar,C,Ms. Tsui Ka Yan,Thu,19:00-20:30,H305,2026S1
+STAT2957,Introduction to Circuits,H,Ms. Fung Sze Wan,Mon,10:00-12:00,E605,2026S2
+STAT3121,Advanced Statistics,E,Dr. Leung Ho Yin,Wed,11:00-12:30,E622,2026S1
+STAT3229,Topics in Organizational Behavior,B,Prof. Lam Wing Kei,Fri,09:00-10:30,E618,2026S1
+STAT3244,Cell Biology and Applications,C,Dr. Ng Tsz Ho,Mon,14:00-16:00,L210,2026S1
+STAT3287,Organizational Behavior Seminar,F,Dr. Wong Lok Yi,Fri,09:00-10:30,L216,2026S1
+STAT3308,Topics in Control Systems,A,Dr. Au Yeung Hoi,Tue,15:00-16:30,L227,2026S2
+STAT3349,Topics in Discrete Mathematics,G,Mr. Ho Chun Kit,Thu,19:00-20:30,L229,2026S1
+STAT3408,Signals Laboratory,G,Dr. Yip Ka Fai,Mon,13:00-14:30,H311,2026S2
+STAT3474,Operating Systems Laboratory,E,Dr. Cheung Mei Ling,Mon,19:00-20:30,E604,2026S2
+STAT3497,Modern Literature Laboratory,H,Dr. Ng Tsz Ho,Wed,15:00-16:30,H316,2026S2
+STAT4012,Algorithms Project,H,Dr. Tam Lok Hin,Wed,16:00-17:30,L205,2026S2
+STAT4038,Financial Markets Project,C,Dr. Ng Tsz Ho,Thu,09:00-10:30,E623,2026S1
+STAT4195,Organizational Behavior and Applications,D,Dr. Tam Lok Hin,Wed,18:00-19:30,L216,2026S1
+STAT4259,Signals and Applications,G,Dr. Ng Tsz Ho,Fri,10:00-12:00,E639,2026S2
+STAT4281,Topics in Algorithms,B,Ms. Kwan Po Yi,Fri,13:00-14:30,L210,2026S2
+STAT4512,Microeconomics Seminar,B,Prof. Chow Man Hon,Wed,15:00-16:30,E627,2026S2
+STAT4514,Cognitive Science Seminar,F,Dr. Cheung Mei Ling,Tue,14:00-16:00,L220,2026S1
+STAT4633,Advanced Cell Biology,G,Dr. Mak Chi Shing,Fri,18:00-19:30,L219,2026S1
+STAT4639,Advanced Operating Systems,G,Mr. Ho Chun Kit,Mon,13:00-14:30,H322,2026S2
+STAT4658,Signals Seminar,C,Dr. Mak Chi Shing,Fri,11:00-12:30,L205,2026S2
+STAT4668,Cell Biology Workshop,E,Dr. Ng Tsz Ho,Fri,11:00-12:30,E639,2026S1
+STAT4683,Modern Literature and Applications,A,Dr. Lee Siu Ming,Mon,18:00-19:30,L216,2026S2
+STAT4791,Introduction to Databases,H,Ms. Fung Sze Wan,Tue,11:00-12:30,H301,2026S2
+STAT4852,Introduction to Cell Biology,A,Ms. Tsui Ka Yan,Fri,18:00-19:30,H314,2026S2
+STAT4867,Advanced Discrete Mathematics,E,Dr. Tam Lok Hin,Fri,16:00-17:30,L211,2026S1
+STAT4944,Microeconomics Seminar,G,Ms. Fung Sze Wan,Thu,15:00-16:30,H310,2026S1
+COMP3003,Data Communications and Networking,A,Dr. Chan Kai Man,Mon,10:00-12:00,E603,2026S2
+COMP3003,Data Communications and Networking,B,Dr. Lee Siu Ming,Wed,14:00-16:00,E604,2026S2

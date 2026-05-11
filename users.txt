@@ -1,0 +1,2 @@
+# One admin per line: username password (space-separated). Lines starting with # are ignored.
+admin admin123
