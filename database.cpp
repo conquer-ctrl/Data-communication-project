@@ -2,16 +2,50 @@
 
 #include <algorithm>
 #include <cctype>
+#include <filesystem>
 #include <fstream>
 #include <iterator>
 #include <mutex>
 #include <sstream>
 #include <vector>
 
+#ifdef _WIN32
+#ifndef NOMINMAX
+#define NOMINMAX
+#endif
+#ifndef WIN32_LEAN_AND_MEAN
+#define WIN32_LEAN_AND_MEAN
+#endif
+#include <windows.h>
+#endif
+
 namespace {
 
 std::mutex g_dbMutex;
 std::string g_dataDir;
+
+#ifdef _WIN32
+std::wstring utf8ToWide(const std::string& utf8) {
+    if (utf8.empty()) {
+        return {};
+    }
+    int n = ::MultiByteToWideChar(CP_UTF8, 0, utf8.data(), static_cast<int>(utf8.size()), nullptr, 0);
+    if (n <= 0) {
+        return {};
+    }
+    std::wstring w(static_cast<std::size_t>(n), L'\0');
+    ::MultiByteToWideChar(CP_UTF8, 0, utf8.data(), static_cast<int>(utf8.size()), w.data(), n);
+    return w;
+}
+
+std::filesystem::path pathFromUtf8(const std::string& utf8) {
+    return std::filesystem::path(utf8ToWide(utf8));
+}
+#else
+std::filesystem::path pathFromUtf8(const std::string& utf8) {
+    return std::filesystem::path(utf8);
+}
+#endif
 
 struct Course {
     std::string code;
@@ -126,7 +160,7 @@ std::string escapeCsvField(const std::string& s) {
 
 void loadCourses(std::vector<Course>& out) {
     out.clear();
-    std::ifstream in(coursesPath());
+    std::ifstream in(pathFromUtf8(coursesPath()));
     if (!in) {
         return;
     }
@@ -157,7 +191,7 @@ void loadCourses(std::vector<Course>& out) {
 }
 
 void saveCourses(const std::vector<Course>& courses) {
-    std::ofstream out(coursesPath(), std::ios::trunc);
+    std::ofstream out(pathFromUtf8(coursesPath()), std::ios::trunc);
     if (!out) {
         return;
     }
@@ -170,7 +204,7 @@ void saveCourses(const std::vector<Course>& courses) {
 }
 
 bool loadAdmin(const std::string& user, const std::string& pass) {
-    std::ifstream in(usersPath());
+    std::ifstream in(pathFromUtf8(usersPath()));
     if (!in) {
         return false;
     }

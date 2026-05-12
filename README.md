@@ -27,6 +27,38 @@
 | `courses.csv` | 课表数据（当前 **502** 条课程记录：500 条批量示例 + 作业示例 `COMP3003` A/B 共 2 条） |
 | `users.txt` | 管理员列表（`#` 开头为注释行） |
 | `README.md` | 本说明，给全组同学阅读 |
+| `timetable_gui.cpp` | **本地测试用** Windows 图形界面：按钮与输入框组装协议文本，内部仍调用 `handleRequest`（与网络版共用逻辑） |
+| `build_gui.bat` | MinGW 下一键编译 `timetable_gui.exe` |
+
+---
+
+## 图形界面（本地客户端 / 作业 Bonus）
+
+`Timetable client (local GUI)` 是一个 **Win32** 小窗口，方便在成员 1 的 Winsock 程序未完成前 **调试数据与协议**；也符合作业里 *GUI 客户端* 的加分方向说明。
+
+- **不替代**成员 1 的 socket 客户端；它只是在本机直接调用 `handleRequest`。
+- 启动时会把 **数据目录设为 exe 所在文件夹**（`setDatabaseDataDirectory`），因此请把 **`courses.csv`、`users.txt` 与 `timetable_gui.exe` 放在同一目录**，或在源码里改路径。
+- 界面包含：按代码/教师/学期查询、管理员登录、添加（单行 CSV）、更新、删除、以及 **原始协议**输入框。
+
+### 编译（MinGW）
+
+在项目目录双击或命令行运行：
+
+```bat
+build_gui.bat
+```
+
+或手动：
+
+```bat
+g++ -std=c++17 -O2 timetable_gui.cpp database.cpp -o timetable_gui.exe -mwindows -municode -luser32 -lgdi32 -lcomctl32
+```
+
+注意链接选项 **`-municode`**：程序入口为 `wWinMain`（Unicode 窗口）。
+
+### Visual Studio
+
+将 `timetable_gui.cpp` 与 `database.cpp` 加入工程，子系统选 **Windows**，字符集选 **Unicode**，同样链接 `user32` / `gdi32` / `comctl32`。
 
 ---
 
